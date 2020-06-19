@@ -39,7 +39,7 @@ nav > div > a {
 }
 
 nav > div:hover {
-  background-color: rgba(0, 0, 0, .4);
+  background-color: rgba(0, 0, 0, 0.4);
   cursor: pointer;
 }
 
