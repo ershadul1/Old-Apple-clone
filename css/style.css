@@ -108,21 +108,21 @@ input[name="search"]:focus {
 .paragraph {
   font-size: 60px;
   color: white;
-  font-weight: 300;
+  font-weight: 700;
   font-family: 'Lato', sans-serif;
 }
 
 .paragraph2 {
   font-size: 35px;
   color: white;
-  font-weight: 300;
+  font-weight: 700;
   font-family: 'Lato', sans-serif;
 }
 
 .paragraph3 {
   font-size: 25px;
   color: white;
-  font-weight: 300;
+  font-weight: 700;
   text-decoration: none;
   font-family: 'Lato', sans-serif;
 }
