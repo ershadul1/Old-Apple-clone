@@ -1,9 +1,9 @@
 # Old Apple Website Clone
 
-![screenshot](assets/img/sreenshot-old-apple.png)
+![screenshot](assets/img/screenshot.png)
 
 
-This page is a clone of the old apple website. In this project we applied flexbox, backgrounds, gradients and grid.
+This page is a clone of the apple.com of 2014. In this project we applied flexbox, backgrounds, gradients and grid.
 
 ## Built With
 
@@ -12,7 +12,7 @@ This page is a clone of the old apple website. In this project we applied flexbo
 
 ## Live Demo
 
-[Live Demo Link](https://compassionate-thompson-502b28.netlify.app/)
+[Live Demo Link](https://amazing-spence-29d4ad.netlify.app/)
 
 
 ## Getting Started
@@ -21,19 +21,19 @@ This page is a clone of the old apple website. In this project we applied flexbo
 
 ### Prerequisites
 
-1. An internet browser
-2. A computer
+1. A computer
+2. An internet browser
 
 
 ## Authors
 
-👤 **Author1**
+👤 Ershadul Hakim Rayhan
 
 - Github: [@ershadul1](https://github.com/ershadul1)
 - Twitter: [@ErshadulRayhan](https://twitter.com/ErshadulRayhan)
 - Linkedin: [ErshadulRayhan](https://www.linkedin.com/in/ershadul-hakim-rayhan-a5a17649/)
 
-👤 **Author2**
+👤 Oyeleke Ayomide
 
 - Github: [@Haywhizzz](https://github.com/Haywhizzz )
 - Twitter: [@Haywhizzz](https://twitter.com/Haywhizzz)
