@@ -21,7 +21,7 @@ nav {
   background: linear-gradient(#737373, #5e5e5e  50%, #707070 50%, #8d8d8d);
   border-radius: 3px;
   display: flex;
-  min-width: 1100px;
+  width: 1100px;
 }
 
 nav > div {
@@ -29,7 +29,7 @@ nav > div {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 90px;
+  min-width: 60px;
 }
 
 nav > div > a {
@@ -55,7 +55,7 @@ img[alt="apple-logo"] {
 
 input[name="search"] {
   width: 100px;
-  height: 30px;
+  height: 25px;
   border-radius: 20px;
   background-color: inherit;
   transition: width 0.25s ease-in-out;
@@ -83,7 +83,7 @@ input[name="search"]:focus {
 }
 
 .big-image {
-  width: 100%;
+  width: 1460px;
   height: 65vh;
   background-image: url("/assets/img/your_verse_hero.jpg");
   background-repeat: no-repeat;
@@ -108,19 +108,21 @@ input[name="search"]:focus {
 .paragraph {
   font-size: 60px;
   color: white;
+  font-weight: 300;
   font-family: 'Lato', sans-serif;
 }
 
 .paragraph2 {
   font-size: 35px;
   color: white;
-  font-weight: lighter;
+  font-weight: 300;
   font-family: 'Lato', sans-serif;
 }
 
 .paragraph3 {
   font-size: 25px;
   color: white;
+  font-weight: 300;
   text-decoration: none;
   font-family: 'Lato', sans-serif;
 }
@@ -131,17 +133,18 @@ input[name="search"]:focus {
 
 .image-container {
   display: grid;
-  width: 100%;
+  width: 1460px;
+  min-height: 200px;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 1fr;
   margin: 0 auto;
-  grid-auto-flow: column;
+  margin-top: 1px;
   grid-gap: 1px;
 }
 
 .image-box img {
-  width: 25vw;
-  height: 25vh;
+  width: 364px;
+  height: 200px;
 }
 
 .left-side p {
@@ -165,7 +168,7 @@ footer {
 
 .footer-list {
   list-style-type: none;
-  font-size: 12px;
+  font-size: 11px;
   color: gray;
   margin-top: 15px;
 }
@@ -179,4 +182,10 @@ footer {
   color: #08c;
   padding-right: 5px;
   border-right: 1px solid #6e6e6e;
+}
+
+img[alt="us-flag"] {
+  cursor: pointer;
+  width: 12px;
+  height: 12px;
 }
