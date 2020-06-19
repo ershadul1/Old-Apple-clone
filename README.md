@@ -1,16 +1,16 @@
-# Old Apple Website Clone
+# Old Apple Website Clone 🚧
 
 ![screenshot](assets/img/screenshot.png)
 
 
 This page is a clone of the apple.com of 2014. In this project we applied flexbox, backgrounds, gradients and grid.
 
-## Built With
+## Built With 🧰
 
 - HTML
 - CSS
 
-## Live Demo
+## Live Demo 🔴
 
 [Live Demo Link](https://amazing-spence-29d4ad.netlify.app/)
 
