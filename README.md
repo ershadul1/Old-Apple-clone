@@ -32,12 +32,14 @@ This page is a clone of the apple.com of 2014. In this project we applied flexbo
 - Github: [@ershadul1](https://github.com/ershadul1)
 - Twitter: [@ErshadulRayhan](https://twitter.com/ErshadulRayhan)
 - Linkedin: [ErshadulRayhan](https://www.linkedin.com/in/ershadul-hakim-rayhan-a5a17649/)
+- Email: ershadul.rayhan@gmail.com
 
 👤 Oyeleke Ayomide
 
 - Github: [@Haywhizzz](https://github.com/Haywhizzz )
 - Twitter: [@Haywhizzz](https://twitter.com/Haywhizzz)
 - Linkedin: [Haywhizzz](https://www.linkedin.com/in/oyeleke-ayomide-b962421a6/)
+- Email: haywhizzz@gmail.com
 
 ## 🤝 Contributing
 
